@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cabbarovulvi
-- 👀 I’m interested in SQL
-- 🌱 I’m currently learning SQL DEVELOPER
-- 💞️ I’m looking to collaborate on ORACLE PL/SQL
+- 👀 I’m interested in Data Analyst
+- 🌱 I’m currently learning SQL PYTHON POWERBI
+- 💞️ I’m looking to collaborate on ORACLE PL/SQL 
 - 📫 How to reach me cabbarovulvi.89@gmail.com ,
 
 <!---
